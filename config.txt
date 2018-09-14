@@ -1,6 +1,6 @@
-token=NDg4NDAwMzk0ODQyODAwMTI5.DnbrKw.V3__flLlkHqtnHohYHEQzFKM5wA
-owner=331081268731052042 
-prefix=!
-game=Baktash-bot
+token=NDkwMDY5MzQzMTcwNzIzODQw.Dnz8kw.f6lat0jEGx5A_X6WsQRUuwAtFBs
+owner=463698464845594628 
+prefix=A
+game= II7M0DY 💞 Alsh_3x 
 stayinchannel=true
 songinstatus=true
